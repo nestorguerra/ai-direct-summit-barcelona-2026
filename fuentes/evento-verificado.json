@@ -1,0 +1,224 @@
+{
+  "nombre": "AI Direct Summit · Barcelona",
+  "fecha": "2026-10-08",
+  "zona_horaria": "Europe/Madrid",
+  "inicio": "10:00",
+  "puertas": "09:30",
+  "fin": "15:30",
+  "idioma": "es",
+  "resumen": "Inteligencia artificial, tecnología y venta directa hotelera. Una jornada para aprender, debatir y conectar.",
+  "acceso": "Presencial · exclusivo para hoteleros · inscripción gratuita con aforo limitado",
+  "inscripcion": "La ficha de Eventbrite indica que la venta de entradas ha finalizado.",
+  "ubicacion": {
+    "nombre": "Palo Alto · Sala Cortés",
+    "direccion": "Carrer dels Pellaires, 30–38, 08019 Barcelona",
+    "barrio": "Poblenou · Sant Martí",
+    "lat": 41.4047148,
+    "lng": 2.2104467,
+    "web": "https://www.paloalto.barcelona/"
+  },
+  "sesiones": [
+    {
+      "id": "recepcion",
+      "inicio": "09:30",
+      "fin": "10:00",
+      "titulo": "Recepción de invitados",
+      "resumen": "Café de bienvenida y encuentro con los asistentes.",
+      "categoria": "networking",
+      "ponentes": []
+    },
+    {
+      "id": "bienvenida",
+      "inicio": "10:00",
+      "fin": "10:10",
+      "titulo": "Bienvenida",
+      "resumen": "Presentación de la jornada.",
+      "categoria": "evento",
+      "ponentes": []
+    },
+    {
+      "id": "caso",
+      "inicio": "10:10",
+      "fin": "10:30",
+      "titulo": "Entrevista / Caso de éxito",
+      "resumen": "Experiencias de hoteleros sobre tecnología y venta directa.",
+      "categoria": "hoteleria",
+      "ponentes": []
+    },
+    {
+      "id": "cooking",
+      "inicio": "10:35",
+      "fin": "11:35",
+      "titulo": "Tech Show Cooking",
+      "resumen": "Demostración de soluciones tecnológicas en directo.",
+      "categoria": "tecnologia",
+      "ponentes": []
+    },
+    {
+      "id": "cafe",
+      "inicio": "11:40",
+      "fin": "12:25",
+      "titulo": "Coffee Break",
+      "resumen": "Pausa para conversar y ampliar contactos.",
+      "categoria": "networking",
+      "ponentes": []
+    },
+    {
+      "id": "nestor",
+      "inicio": "12:30",
+      "fin": "13:15",
+      "titulo": "Ponencia Néstor Guerra",
+      "resumen": "Inteligencia artificial e innovación aplicada a los negocios.",
+      "categoria": "ia",
+      "ponentes": [
+        "nestor"
+      ]
+    },
+    {
+      "id": "quiz",
+      "inicio": "13:20",
+      "fin": "13:40",
+      "titulo": "The Quiz",
+      "resumen": "Juego interactivo y debate sobre los resultados.",
+      "categoria": "interactivo",
+      "ponentes": []
+    },
+    {
+      "id": "mesa",
+      "inicio": "13:45",
+      "fin": "14:30",
+      "titulo": "Mesa de debate hotelera",
+      "resumen": "Venta directa, tecnología y hotelería.",
+      "categoria": "hoteleria",
+      "ponentes": []
+    },
+    {
+      "id": "coctel",
+      "inicio": "14:30",
+      "fin": "15:30",
+      "titulo": "Cóctel de cierre",
+      "resumen": "Encuentro informal al terminar la jornada.",
+      "categoria": "networking",
+      "ponentes": []
+    }
+  ],
+  "ponentes": [
+    {
+      "id": "nestor",
+      "nombre": "Néstor Guerra",
+      "cargo": "Consultor y speaker de innovación e inteligencia artificial",
+      "empresa": "NCompany",
+      "linkedin": "https://www.linkedin.com/in/nestorguerra/",
+      "web": "https://www.nestorguerra.com/",
+      "fuente": "https://www.eventbrite.es/e/entradas-ai-direct-summit-barcelona-1999660211522?aff=Fideltour"
+    }
+  ],
+  "ponentes_no_identificados": "La fuente pública no identifica a los participantes de la entrevista y de la mesa hotelera. No inventar nombres, fotos, cargos ni LinkedIn.",
+  "entidades": [
+    {
+      "nombre": "Paraty Tech",
+      "rol": "Organiza",
+      "web": "https://www.paratytech.com/"
+    },
+    {
+      "nombre": "Fideltour",
+      "rol": "Patrocina",
+      "web": "https://www.fideltour.com/"
+    },
+    {
+      "nombre": "Scalapay",
+      "rol": "Patrocina",
+      "web": "https://www.scalapay.com/es"
+    },
+    {
+      "nombre": "Wavyssa",
+      "rol": "Patrocina",
+      "web": "https://wavyssa.com/"
+    },
+    {
+      "nombre": "Hotelverse",
+      "rol": "Patrocina",
+      "web": "https://hotelverse.tech/"
+    }
+  ],
+  "barcelona": [
+    {
+      "id": "rambla",
+      "nombre": "Rambla del Poblenou",
+      "categoria": "Paseo",
+      "barrio": "Poblenou",
+      "descripcion": "Paseo y terrazas para continuar la conversación por el barrio.",
+      "web": "https://www.barcelonaturisme.cat/wv3/en/page/452/rambla-del-poblenou.html",
+      "direccion": "Rambla del Poblenou, Barcelona"
+    },
+    {
+      "id": "marbella",
+      "nombre": "Playa de la Mar Bella",
+      "categoria": "Aire libre",
+      "barrio": "Sant Martí",
+      "descripcion": "Un paseo junto al mar al terminar el evento.",
+      "web": "https://www.barcelonaturisme.cat/wv3/es/page/3497/playa-de-la-mar-bella.html",
+      "direccion": "Platja de la Mar Bella, Barcelona"
+    },
+    {
+      "id": "pescadors",
+      "nombre": "Els Pescadors",
+      "categoria": "Restaurante",
+      "barrio": "Poblenou",
+      "descripcion": "Cocina marinera en la Plaça de Prim. Consulte disponibilidad y reserve en su web.",
+      "web": "https://elspescadors.com/location-contact/",
+      "direccion": "Plaça de Prim 1, Barcelona"
+    },
+    {
+      "id": "nomad",
+      "nombre": "NOMAD Frutas Selectas",
+      "categoria": "Café",
+      "barrio": "Poblenou",
+      "descripcion": "Café de especialidad en el barrio. Consulte la carta y los horarios actuales.",
+      "web": "https://nomadcoffee.es/",
+      "direccion": "Carrer de Pujades 95, Barcelona"
+    },
+    {
+      "id": "disseny",
+      "nombre": "Disseny Hub Barcelona",
+      "categoria": "Cultura",
+      "barrio": "Glòries",
+      "descripcion": "Diseño y cultura para explorar después del encuentro.",
+      "web": "https://www.dissenyhub.barcelona/",
+      "direccion": "Plaça de les Glòries Catalanes 37, Barcelona"
+    },
+    {
+      "id": "sagrada",
+      "nombre": "Sagrada Família",
+      "categoria": "Arquitectura",
+      "barrio": "Eixample",
+      "descripcion": "Una visita de arquitectura en Barcelona. Planifique la entrada en la web oficial.",
+      "web": "https://sagradafamilia.org/",
+      "direccion": "Sagrada Família, Barcelona"
+    }
+  ],
+  "contacto": {
+    "nombre": "Daniel Romero · Paraty Tech",
+    "email": "comunicacion@paratytech.com",
+    "fuente": "https://www.eventbrite.es/e/entradas-ai-direct-summit-barcelona-1999660211522?aff=Fideltour"
+  },
+  "fuentes": [
+    {
+      "titulo": "Programa e información del evento · Eventbrite",
+      "url": "https://www.eventbrite.es/e/entradas-ai-direct-summit-barcelona-1999660211522?aff=Fideltour"
+    },
+    {
+      "titulo": "Organizador · Paraty Tech",
+      "url": "https://www.paratytech.com/en/events.html"
+    },
+    {
+      "titulo": "Perfil profesional · Néstor Guerra",
+      "url": "https://www.linkedin.com/in/nestorguerra/"
+    }
+  ],
+  "notas_editoriales": [
+    "La hora final del cóctel usa el cierre general de la ficha (15:30); la agenda solo explicita su inicio a las 14:30.",
+    "Las sugerencias de Barcelona son selección editorial de la app, separadas del programa del evento. No afirmar precios, distancias o apertura actual sin datos.",
+    "Los huecos de cinco minutos entre bloques son los publicados; no rellenarlos con sesiones inventadas."
+  ]
+}
